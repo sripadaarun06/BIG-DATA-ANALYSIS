@@ -50,7 +50,7 @@ Results are saved in Parquet format:
 - `forestry_sales_yoy.parquet`
 - `top_industries_2025.parquet`
 
-  # Example output snippet:
+# Example output snippet:
 +---------------------------------------------------------------------------+----+-----------------------------------+-----------+---------+
 |Series_title_2                                                             |Year|Series_title_1                     |total_value|avg_value|
 +---------------------------------------------------------------------------+----+-----------------------------------+-----------+---------+
