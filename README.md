@@ -1,5 +1,5 @@
 # BIG-DATA-ANALYSIS-PySpark
-PySpark script analyzing financial data: industry sales, expenses, and profits; YoY sales growth for Forestry &amp; Logging (2016–2025); top 5 industries by 2025 profit. Uses business-financial-data-march-2025-quarter-csv.csv.
+PySpark script analyzing financial data: industry sales, expenses, and profits; YoY sales growth for Forestry &amp; Logging (2016–2025); top 5 industries by 2025 profit.
 
 # Overview
 This project analyzes a large financial dataset using PySpark to demonstrate scalability. The dataset contains sales and operating profit data for New Zealand industries (2016–2025).
