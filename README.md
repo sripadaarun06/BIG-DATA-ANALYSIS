@@ -15,7 +15,7 @@ This project analyzes a large financial dataset using PySpark to demonstrate sca
 2. Place the CSV file in the project directory.
 3. Run the script: `python business_financial_analysis.py`
 
-#How to Run
+# How to Run
 Navigate to the Directory:
 -Open PowerShell and change to the script’s directory:
 
@@ -25,14 +25,14 @@ Run the Script:
 Execute the script:
 python business_financial_analysis.py
 
-#Expected Output:
+# Expected Output:
 
 The script will display:
 A table summarizing financial metrics by industry and year.
 A table showing YoY sales growth for the Forestry and Logging industry (2016–2025).
 A table listing the top 5 industries by operating profit in 2025.
 
-Example output snippet:
+# Example output snippet:
 +---------------------------------------------------------------------------+----+-----------------------------------+-----------+---------+
 |Series_title_2                                                             |Year|Series_title_1                     |total_value|avg_value|
 +---------------------------------------------------------------------------+----+-----------------------------------+-----------+---------+
