@@ -17,9 +17,11 @@ This project analyzes a large financial dataset using PySpark to demonstrate sca
 
 # How to Run
 Navigate to the Directory:
+
 -Open PowerShell and change to the script’s directory:
 
 cd 'C:/ File Path/'
+
 Run the Script:
 
 Execute the script:
