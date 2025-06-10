@@ -1,3 +1,11 @@
+## BIG DATA ANALYSIS
+
+*COMPANY*: CODTECH IT SOLUTIONS
+*NAME*: SRIPADA ARUN
+*INTERN ID*: CT08DF2529
+*DOMAIN*: Data Analytics
+*MENTOR*: NEELA SANTOSH
+
 # BIG-DATA-ANALYSIS-PySpark
 PySpark script analyzing financial data: industry sales, expenses, and profits; YoY sales growth for Forestry &amp; Logging (2016–2025); top 5 industries by 2025 profit.
 
